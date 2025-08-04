@@ -2,7 +2,7 @@ document.getElementById("btnClick").addEventListener("click", function () {
   document.getElementById("output").textContent = "¡Botón clicado!";
 });
 
-//Este es un metodo
+//Este es un metodo, este es un ajuste para el ejemplo de release
 document
   .getElementById("contactForm")
   .addEventListener("submit", function (event) {
